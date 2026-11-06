@@ -9,7 +9,7 @@ A Lean 4 / mathlib formalization classifying universal robust strictly positive-
 For a nonempty finite family of real monic degree-`n` denominators, assume that the **entire convex hull is strictly Hurwitz stable**. A common SPR numerator must work with the original denominators throughout that hull at every finite real frequency:
 
 $$
-\operatorname{Re}\left(\frac{b(i\omega)}{a(i\omega)}\right)>0.
+\mathrm{Re}\left(\frac{b(i\omega)}{a(i\omega)}\right)>0.
 $$
 
 For every positive order `n` and vertex bound `m`, universal existence is classified as follows:
