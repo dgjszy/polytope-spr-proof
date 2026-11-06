@@ -9,7 +9,7 @@
 对于一个非空有限的实系数首一 `n` 次分母族，假设**整个凸包均严格 Hurwitz 稳定**。公共 SPR 分子须对凸包内的原始分母及每个有限实频率成立：
 
 $$
-\operatorname{Re}\left(\frac{b(i\omega)}{a(i\omega)}\right)>0.
+\mathrm{Re}\left(\frac{b(i\omega)}{a(i\omega)}\right)>0.
 $$
 
 对每个正阶数 `n` 及顶点数量上界 `m`，普遍存在性的分类如下：
